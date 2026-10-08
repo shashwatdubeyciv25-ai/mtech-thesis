@@ -1,0 +1,9 @@
+factor_id,sector,activity,fuel_or_source,unit,emission_factor,gas,CO2e_factor,reference,year
+1,Energy,LPG Consumption,Liquefied Petroleum Gas,kg,2.984,CO2/CH4/N2O,1.0,IPCC 2006 Guidelines for National GHG Inventories (Vol 2 Energy - Stationary Combustion),2006
+2,Energy,Firewood Burning,Biomass Fuelwood,kg,1.747,CO2/CH4/N2O,1.0,IPCC 2006 Guidelines & MoEFCC Biomass Combustion Baseline,2006
+3,Energy,Electricity Grid,Grid Electricity (UP / NEWNE Grid),kWh,0.820,CO2,1.0,Central Electricity Authority (CEA) CO2 Baseline Database for Indian Power Sector Version 20.0,2024
+4,Transport,Motorbikes Fuel,Motor Gasoline / Petrol,litre,2.310,CO2/CH4/N2O,1.0,IPCC 2006 Guidelines (Vol 2 - Mobile Combustion Road Transport),2006
+5,Waste,Solid Waste Disposal,Rural Municipal Solid Waste,kg,0.450,CH4,28.0,IPCC 2006 Solid Waste Disposal First Order Decay (Simplified Rural Default),2006
+6,Livestock,Dairy Cattle,Indigenous & Crossbred Cattle,head_year,980.000,CH4,28.0,IPCC 2006 Guidelines (Vol 4 AFOLU - Indian Livestock Enteric & Manure Management),2006
+7,Livestock,Goats,Caprine Ruminants,head_year,145.600,CH4,28.0,IPCC 2006 Guidelines (Vol 4 AFOLU - Indian Goat Enteric Fermentation),2006
+8,Livestock,Sheep,Ovine Ruminants,head_year,145.600,CH4,28.0,IPCC 2006 Guidelines (Vol 4 AFOLU - Indian Sheep Enteric Fermentation),2006
